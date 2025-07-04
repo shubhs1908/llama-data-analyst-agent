@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # === USER MUST SET THIS ===
-together.api_key = "tgp_v1_M3j9QipclGLurRzixDHas-Ab18Fl2qi2P2RRqjdmDas"
+together.api_key = "YPUR-API-KEY"
 MODEL = "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
 
 def ask_llama(prompt):
